@@ -1,0 +1,9 @@
+.dp_field_fdbutton{padding-right: .7em !important; padding-left: .7em !important;}
+.dp_field_fdbutton:before, 
+.dp_field_fdbutton:after{content:"" !important; margin-left: 0 !important; margin-right: 0 !important;}
+.fd-icon{line-height: inherit;font-size: inherit !important;opacity: 1;display: inline-block;font-family: ETmodules !important;font-weight: 400 !important;}
+.fd-icon-right{margin-left:.3em;left: auto;}
+.fd-icon-left{margin-right:.3em;right: auto;}
+.dp_field_fdbutton .fd-icon-on{opacity: 0; width:0;}
+.dp_field_fdbutton:hover .fd-icon-on{opacity:1; width: auto;}
+.et-pb-icon-circle {border-radius: 100%;}
